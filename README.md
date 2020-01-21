@@ -9,7 +9,7 @@ TensorFlow 튜토리얼의 [심층 합성곱 생성적 적대 신경망](https:/
 <div style="width:40%; float:left">
 <img src="./images/DCGAN_MNIST/generator.png" width="40%"></img>
 </div>
-<div style="width:40%; float:right">
+<div style="width:40%; float:left">
 <img src="./images/DCGAN_MNIST/discriminator.png" width="40%"></img>
 </div>
 
