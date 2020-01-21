@@ -6,10 +6,10 @@ TensorFlow 튜토리얼의 [심층 합성곱 생성적 적대 신경망](https:/
 
 ### 생성자(좌)와 감별자(우) 모델
 
-<div style="width:50%; float:left">
+<div style="width:40%; float:left">
 <img src="./images/DCGAN_MNIST/generator.png" width="40%"></img>
 </div>
-<div style="width:50%; float:right">
+<div style="width:40%; float:right">
 <img src="./images/DCGAN_MNIST/discriminator.png" width="40%"></img>
 </div>
 
