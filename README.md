@@ -4,14 +4,11 @@ MNIST 데이터셋과 DCGAN으로 숫자 이미지 생성하기
 
 TensorFlow 튜토리얼의 [심층 합성곱 생성적 적대 신경망](https://www.tensorflow.org/tutorials/generative/dcgan)을 참고하였습니다.
 
-### 생성자(좌)와 감별자(우) 모델
+### 생성자와 감별자 모델
 
-<div style="width:40%; float:left">
-<img src="./images/DCGAN_MNIST/generator.png" width="40%"></img>
-</div>
-<div style="width:40%; float:left">
-<img src="./images/DCGAN_MNIST/discriminator.png" width="40%"></img>
-</div>
+| 생성자 모델 | 감별자 모델 |
+| ----------- | ----------- |
+| <img src="./images/DCGAN_MNIST/generator.png"></img> | <img src="./images/DCGAN_MNIST/discriminator.png"></img> |
 
 ### 학습 결과물
 ![dcgan_mnist](images/DCGAN_MNIST/dcgan_mnist.gif)
