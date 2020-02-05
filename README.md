@@ -7,3 +7,11 @@
 
 
 ![dcgan_mnist](./[1]DCGAN_MNIST/images/dcgan_mnist.gif)
+
+## CGAN
+
+## InfoGAN
+
+## pix2pix
+
+## CycleGAN
